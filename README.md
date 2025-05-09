@@ -30,15 +30,3 @@ This project focuses on forecasting air quality metrics using multivariate time 
 - Statsmodels (for VAR model)
 - Streamlit (for deployment)
 
-## 🚀 How to Run
-
-
-1- **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/air-quality-var-forecast.git
-   cd air-quality-var-forecast
-   ```
-2- **run the ```.py file```**:
-  ```bash 
-  streamlit run streamlit_gui.py
-  ```
